@@ -1,0 +1,16 @@
+h1{
+  font-style: italic;
+  color: red;
+}
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4su914YcHZUNILIMf5yJwJnsWyAod5_TBsZ3JzV2XwCpI9NURw);
+}
+.jumbotron{
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 50px
+  padding-bottom: 10px;
+}
+#zz{
+  color: maroon;
+}
